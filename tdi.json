@@ -1,0 +1,16 @@
+{"fe": {
+    "desc": "Teste FE",
+    "acl": {
+      "puppet.globoi.com"               :   { "port": [80,8140] },
+      "yum.globoi.com"                  :   { "port": 80 }
+    }
+  },
+
+"be": {
+    "desc": "Teste BE",
+    "acl": {
+      "ldap.globoi.com"               :   { "port": 636 }
+    }
+  }
+
+}
