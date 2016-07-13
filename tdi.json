@@ -1,15 +1,15 @@
 {"fe": {
     "desc": "Teste FE",
     "acl": {
-      "puppet.globoi.com"               :   { "port": [80,8140] },
-      "yum.globoi.com"                  :   { "port": 80 }
+      "mudei.globoi.com"               :   { "port": [80,8140] },
+      "naofuieu.globoi.com"                  :   { "port": 80 }
     }
   },
 
 "be": {
     "desc": "Teste BE",
     "acl": {
-      "ldap.globoi.com"               :   { "port": 636 }
+      "jatavaassim.globoi.com"               :   { "port": 636 }
     }
   }
 
